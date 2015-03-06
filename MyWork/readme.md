@@ -1,1 +1,2 @@
-Files in this folder to satisfy course1 of Data Exploration and analysis.
+- Course Project 1 is in Course1 folder.
+- Course Project 2 is in Course2 folder.
